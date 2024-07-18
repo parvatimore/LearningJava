@@ -1,7 +1,8 @@
-#Java programs
+#JAVA PROGRAMS
+- Opps concept
+- Collection framework
+- Data types
+- Variable
 
--opps
--java program 
 
--collection
  
